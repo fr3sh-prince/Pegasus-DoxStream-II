@@ -1,0 +1,44 @@
+{
+    "whois": {
+        "registrar": null,
+        "creation_date": null,
+        "expiration_date": null,
+        "name_servers": null,
+        "status": null,
+        "emails": null,
+        "error": null
+    },
+    "dns": {
+        "records": {
+            "A": [
+                "203.175.8.158"
+            ],
+            "MX": [
+                "0 somansa.id."
+            ],
+            "NS": [
+                "ns2.rumahweb.com.",
+                "ns1.rumahweb.com.",
+                "ns4.rumahweb.net.",
+                "ns3.rumahweb.net."
+            ],
+            "TXT": [
+                "\"v=spf1 +a +mx +ip4:203.175.8.156 +ip4:203.175.8.158 +ip4:203.175.9.65 +ip4:203.175.9.67 ~all\""
+            ],
+            "SOA": [
+                "ns1.rumahweb.com. root.kelimutu.iixcp.rumahweb.net. 2025041804 3600 1800 1209600 86400"
+            ]
+        },
+        "error": null
+    },
+    "subdomains": {
+        "subdomains": [],
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "technologies": {
+        "technologies": [],
+        "server_info": {},
+        "error": "[WinError 2] The system cannot find the file specified"
+    },
+    "error": null
+}

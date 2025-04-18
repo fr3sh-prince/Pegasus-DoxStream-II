@@ -1,0 +1,6 @@
+@echo off
+echo Installing Streamlit...
+call python -m pip install --upgrade pip
+call pip install streamlit streamlit-option-menu streamlit-extras
+echo Starting Streamlit application...
+python -m streamlit run app.py --server.port=8501 --server.address=localhost 

@@ -1,0 +1,14 @@
+{
+    "venv": "venv",
+    "venvPath": ".",
+    "reportMissingImports": false,
+    "reportMissingModuleSource": false,
+    "pythonVersion": "3.8",
+    "typeCheckingMode": "basic",
+    "extraPaths": [
+        ".",
+        "./tools",
+        "./venv/Lib/site-packages"
+    ],
+    "useLibraryCodeForTypes": true
+} 
