@@ -18,9 +18,12 @@ Pegasus-DoxStream is a powerful OSINT (Open Source Intelligence) investigation t
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.9+
 - pip (Python package manager)
 - Git
+- spiderfoot (not available in pip)
+- whatweb
+- exiftool
 
 ## 🛠️ Installation
 
